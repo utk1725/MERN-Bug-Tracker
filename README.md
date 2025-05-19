@@ -212,16 +212,5 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-## License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-Just copy everything above as-is and paste into your `README.md`.  
-No extra edits needed.
-
 If you want me to generate a LICENSE file or help with anything else, just ask!
 ```
