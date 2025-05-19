@@ -205,6 +205,11 @@ mern-bug-tracker/
 ```
 
 ---
+**Preview**
+![PHOTO-2025-05-19-16-24-44](https://github.com/user-attachments/assets/9c3e704f-e1d7-4e0d-87e8-4145d3707bea)
+
+
+---
 
 ## Contributing
 
@@ -212,7 +217,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 ---
 
-If you want me to generate a LICENSE file or help with anything else, just ask! 
 
 Demo : https://mern-bug-tracker.vercel.app/
 ```
