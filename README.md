@@ -214,7 +214,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 If you want me to generate a LICENSE file or help with anything else, just ask! 
 
-Demo : https://mern-bug-tracker.vercel.app/login
+Demo : https://mern-bug-tracker.vercel.app/
 ```
 
 
